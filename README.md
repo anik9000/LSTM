@@ -1,2 +1,2 @@
 # LSTM
-Basic python code to test how LSTMs works on MNIST Dataset.
+Basic python code to test how LSTMs work on MNIST Dataset.
